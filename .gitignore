@@ -36,3 +36,4 @@ ENV/
 /uploads/
 URFall_Dataset/
 train_model.py
+.vercel
